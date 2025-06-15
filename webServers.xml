@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="50004924-3e52-4226-827d-c352a1a8f844" name="sp-base-dual">
+        <fileTransfer rootFolder="/home/mimi" accessType="SFTP" host="59.110.156.148" port="10066" sshConfigId="25249df8-430f-488f-8304-8f238b10523e" sshConfig="mimi@59.110.156.148:10066 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a836557f-0b2f-41a6-94a9-661dcbe06c83" name="sp-yolo">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="connect.nmb1.seetacloud.com" port="41513" sshConfigId="832d8d23-24cf-4822-a522-5ea6feeb368f" sshConfig="root@connect.nmb1.seetacloud.com:41513 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

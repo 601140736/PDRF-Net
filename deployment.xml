@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="sp-yolo" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="sp-base-dual">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/桌面/sdd/dual_yolo/sp-base-dual" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sp-yolo">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/sp-base-dual" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ss">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

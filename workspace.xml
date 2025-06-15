@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ab6cbbe-fb90-4a74-9dd5-6f451bbb549b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2w5TRr1j4Kw6s6NqmHrZ4q18fTU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.visual.executor": "Run",
+    "Python.visualflir.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/2024F_10_16/孔径雷达/code/ChangeDiff",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xianyu2025_E\中途融合2区\sp-base-dual" />
+      <recent name="E:\xianyu2025_E\中途融合2区\sp-base-dual\train_cfg_fusion_moe" />
+      <recent name="E:\xianyu2025_E\中途融合2区\sp-base-dual\train_cfg_wo" />
+      <recent name="E:\xianyu2025_E\中途融合2区\sp-base-dual\FLIR_cfg_wo" />
+      <recent name="E:\xianyu2025_E\中途融合2区\sp-base-dual\ultralytics\nn" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ab6cbbe-fb90-4a74-9dd5-6f451bbb549b" name="Changes" comment="" />
+      <created>1745330430553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745330430553</updated>
+      <workItem from="1745330431900" duration="873000" />
+      <workItem from="1745371195404" duration="8780000" />
+      <workItem from="1745457233568" duration="558000" />
+      <workItem from="1745459589727" duration="157000" />
+      <workItem from="1745492927535" duration="689000" />
+      <workItem from="1745501968528" duration="3688000" />
+      <workItem from="1745506208972" duration="338000" />
+      <workItem from="1745545028330" duration="599000" />
+      <workItem from="1745566842340" duration="1077000" />
+      <workItem from="1745578248646" duration="146000" />
+      <workItem from="1745633570566" duration="1122000" />
+      <workItem from="1745732551279" duration="1052000" />
+      <workItem from="1745764696168" duration="945000" />
+      <workItem from="1745765713750" duration="1560000" />
+      <workItem from="1745988517643" duration="392000" />
+      <workItem from="1745999520398" duration="2838000" />
+      <workItem from="1746020802338" duration="616000" />
+      <workItem from="1746150318873" duration="1186000" />
+      <workItem from="1746235914936" duration="275000" />
+      <workItem from="1746267887547" duration="2112000" />
+      <workItem from="1746348893665" duration="9352000" />
+      <workItem from="1746450647656" duration="4202000" />
+      <workItem from="1746495352194" duration="80000" />
+      <workItem from="1746502776934" duration="2435000" />
+      <workItem from="1746539420669" duration="4712000" />
+      <workItem from="1746629089977" duration="6199000" />
+      <workItem from="1746675967008" duration="1681000" />
+      <workItem from="1746683252161" duration="2655000" />
+      <workItem from="1746704060868" duration="26000" />
+      <workItem from="1746752595969" duration="2739000" />
+      <workItem from="1746758548073" duration="530000" />
+      <workItem from="1747039062567" duration="1408000" />
+      <workItem from="1747099944397" duration="319000" />
+      <workItem from="1747143661596" duration="2804000" />
+      <workItem from="1747486801257" duration="5476000" />
+      <workItem from="1747557862978" duration="7862000" />
+      <workItem from="1747656222073" duration="1469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
